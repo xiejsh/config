@@ -1,0 +1,26 @@
+# 直连补充列表(国内域名不解析时，防止走代理使用)
+
+# MyList
+# 域名后缀匹配
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,msftcomecttest.com
+DOMAIN-SUFFIX,dns.msftncsi.com
+DOMAIN-SUFFIX,ipv6.msftconnecttest.com
+DOMAIN-SUFFIX,ip138.com
+DOMAIN-SUFFIX,123pan.com
+DOMAIN-SUFFIX,jiaoyupan.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,mirror
+DOMAIN-KEYWORD,ghp
+
+# 360
+DOMAIN-SUFFIX,360.com
+DOMAIN-SUFFIX,360kuai.com
+DOMAIN-SUFFIX,360safe.com
+DOMAIN-SUFFIX,dhrest.com
+DOMAIN-SUFFIX,qhres.com
+DOMAIN-SUFFIX,qhstatic.com
+DOMAIN-SUFFIX,qhupdate.com
+DOMAIN-SUFFIX,so.com
