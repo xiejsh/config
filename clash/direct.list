@@ -9,10 +9,10 @@ DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,123pan.com
-DOMAIN-SUFFIX,jiaoyupan.com
 DOMAIN-SUFFIX,baidu.com
 
 # 域名关键字匹配
+DOMAIN-KEYWORD,jiaoyupan
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
 
