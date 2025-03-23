@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,123pan.com
 DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,ccw.site
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,jiaoyupan
