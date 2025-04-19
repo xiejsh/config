@@ -1,2 +1,2 @@
 # config
-分流规则
+Clash分流规则
