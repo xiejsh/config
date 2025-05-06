@@ -19,3 +19,5 @@ DOMAIN-SUFFIX,stripe.com
 
 #谷歌 gemini
 DOMAIN-SUFFIX,gemini.google.com
+#trae海外版
+DOMAIN-SUFFIX,trae.ai
