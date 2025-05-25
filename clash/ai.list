@@ -21,3 +21,6 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,gemini.google.com
 #trae海外版
 DOMAIN-SUFFIX,trae.ai
+#Claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,Claude.ai
