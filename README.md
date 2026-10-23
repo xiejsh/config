@@ -1,2 +1,2 @@
 # drt.ini
-Clash订阅转换自定义模板
+Clash订阅转换模板
