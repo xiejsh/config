@@ -1,8 +1,3 @@
-#我的机场
-DOMAIN-SUFFIX,llgjc1.com
-DOMAIN-SUFFIX,feiniaoyun.xyz
-DOMAIN-SUFFIX,mojie.me
-
-#自定义清单
-DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-KEYWORD,jubt
+# 自定义代理清单
+# DOMAIN-SUFFIX,qichiyu.com
+# DOMAIN-KEYWORD,jubt
