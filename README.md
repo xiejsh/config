@@ -1,2 +1,4 @@
-# drt.ini
-Clash订阅转换模板
+# Clash订阅转换分流模板
+drt.ini默认直连
+drt_lite.ini默认代理
+开启流媒体加强
