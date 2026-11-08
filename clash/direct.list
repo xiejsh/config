@@ -1,10 +1,9 @@
-# 直连补充列表(国内域名不解析时，防止走代理使用)
-# 一般不需要，绕过大陆白名单几乎覆盖所有
-# MyList
+# 直连补充列表(国内白名单不进内核不需要加)
+
 # 域名后缀匹配
 # DOMAIN-SUFFIX,ip138.com
 
 # 域名关键字匹配
-# DOMAIN-KEYWORD,jiaoyupan
-# DOMAIN-KEYWORD,mirror
-# DOMAIN-KEYWORD,ghp
+DOMAIN-KEYWORD,jiaoyupan
+DOMAIN-KEYWORD,mirror
+DOMAIN-KEYWORD,ghp
