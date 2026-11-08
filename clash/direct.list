@@ -1,8 +1,5 @@
 # 直连补充列表
-# 域名后缀匹配
-DOMAIN-SUFFIX,asuscomm.com
-
-# 域名关键字匹配
 DOMAIN-KEYWORD,jiaoyupan
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
+DOMAIN-SUFFIX,asuscomm.com
