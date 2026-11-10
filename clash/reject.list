@@ -1,5 +1,7 @@
 # 自定义屏蔽清单
-# 说明: 本列表针对国内 App（抖音/番茄小说/红果短剧/小红书/高德等）的
-# 引用: https://github.com/abclq/home-dns-adblock/blob/main/dist/clash-surge-rules.txt
-# 放入自定义规则更灵活方便
-
+# 红果新增
+- DOMAIN-SUFFIX,mktm.jd.com
+- DOMAIN-SUFFIX,vvjhbbjhjuhig.ctydoh.cn
+- DOMAIN-SUFFIX,douyinpic.com
+- DOMAIN-SUFFIX,ad.qznovelvod.com
+# 红果新增
