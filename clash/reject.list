@@ -1,7 +1,7 @@
 # 自定义屏蔽清单
 # 红果新增
-#- DOMAIN-SUFFIX,mktm.jd.com
-- DOMAIN-SUFFIX,vvjhbbjhjuhig.ctydoh.cn
-- DOMAIN-SUFFIX,douyinpic.com
-- DOMAIN-SUFFIX,ad.qznovelvod.com
+# DOMAIN-SUFFIX,mktm.jd.com
+DOMAIN-SUFFIX,vvjhbbjhjuhig.ctydoh.cn
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,ad.qznovelvod.com
 # 红果新增
