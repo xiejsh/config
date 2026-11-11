@@ -2,8 +2,13 @@
   🚀 Clash订阅转换分流模板
 </h1>
 
-drt.ini默认直连
+<p align="center">
+  <a href="drt.ini">📖 默认直连</a>
+  &nbsp;•&nbsp;
+  <a href="drt_lite.ini">⚙️ 默认代理</a>
+</p>
 
-drt_lite.ini默认代理
+
+## 📖 说明
 
 开启流媒体增强
