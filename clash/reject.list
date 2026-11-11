@@ -1,8 +1,5 @@
 # 自定义屏蔽清单
 # 红果广告域名清单：https://raw.githubusercontent.com/abclq/home-dns-adblock/main/dist/domains.txt
 # 红果新增
-# DOMAIN-SUFFIX,mktm.jd.com
-# DOMAIN-SUFFIX,douyinpic.com
-# DOMAIN-SUFFIX,vvjhbbjhjuhig.ctydoh.cn
 DOMAIN-SUFFIX,ad.qznovelvod.com
 # 红果新增
