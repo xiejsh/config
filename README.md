@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="drt.ini">📖 默认直连</a>
+  <a href="drt.ini">⚙️ 默认直连</a>
   &nbsp;•&nbsp;
   <a href="drt_lite.ini">⚙️ 默认代理</a>
 </p>
